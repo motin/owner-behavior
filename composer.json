@@ -1,8 +1,15 @@
 {
-    "name": "thyseus/owner-behavior",
+    "name": "motin/owner-behavior",
     "description": "Behavior to automate setting the \"owned by user\" attribute to the currently logged in user id upon creation of a record.",
     "authors": [
-        { "name": "thyseus", "email": "thyseus@gmail.com" }
+        {
+            "name": "Fredrik Wollsén",
+            "email": "fredrik@neam.se"
+        },
+        {
+            "name": "thyseus",
+            "email": "thyseus@gmail.com"
+        }
     ],
     "require": {
         "php": ">=5.2.0"
