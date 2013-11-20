@@ -1,5 +1,5 @@
 {
-    "name": "motin/owner-behavior",
+    "name": "motin/yii-owner-behavior",
     "description": "Behavior to automate setting the \"owned by user\" attribute to the currently logged in user id upon creation of a record.",
     "authors": [
         {
