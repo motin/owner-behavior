@@ -1,0 +1,13 @@
+{
+    "name": "thyseus/owner-behavior",
+    "description": "Behavior to automate setting the \"owned by user\" attribute to the currently logged in user id upon creation of a record.",
+    "authors": [
+        { "name": "thyseus", "email": "thyseus@gmail.com" }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "classmap": ["."]
+    }
+}
